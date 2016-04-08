@@ -19,6 +19,4 @@ ja, zorg dat je deze hebt en het gaat allemaal prima werken::
   libfreetype6-dev
   libopenjpeg-dev
   libtiff5-dev
-  libmemcache-dev
   libbz2-dev
-  cmake
